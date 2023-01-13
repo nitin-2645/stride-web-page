@@ -1,0 +1,29 @@
+/* div{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    height: 100vh;
+    color: white;
+    justify-content: center;
+
+} */
+.fa-solid fa-bars p-4{
+    font-size: large;
+}
+
+.App{
+    display: flex;
+    flex-direction: row;
+}
+.welcome-richard{
+    background-color: blue;
+    width: 100vw;
+    height: 30vh;
+}
+.welcome{
+    margin-left: 250px;
+    padding-top: 40px;
+}
+.richard{
+    margin-left: 250px;
+}
